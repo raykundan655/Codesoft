@@ -15,7 +15,7 @@ The main objective of this project is to apply data preprocessing techniques, pe
 
 ## 📂 Dataset Description
 
-The dataset used in this project is the famous Titanic dataset, which is available on [Kaggle](https://www.kaggle.com/c/titanic/data) and other public repositories. It contains data about the passengers aboard the Titanic ship, with features including:
+The dataset used in this project is the famous Titanic dataset, which is available on [Kaggle](https://www.kaggle.com/datasets/yasserh/titanic-dataset)  and other public repositories. It contains data about the passengers aboard the Titanic ship, with features including:
 
 - **PassengerId**: Unique ID for each passenger
 - **Pclass**: Ticket class (1 = 1st, 2 = 2nd, 3 = 3rd)
