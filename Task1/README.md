@@ -1,5 +1,3 @@
-# Codesoft
-This repository contains data science internship tasks including Titanic survival prediction using Logistic Regression
 
 # 🚢 Titanic Survival Prediction Using Logistic Regression
 
